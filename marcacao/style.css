@@ -1,8 +1,12 @@
 body {
-  background-color: #cccccc;
 }
 #banner {
   width: 100%;
+}
+
+.principal {
+  background-color: #cccccc;
+  padding: 20px;
 }
 
 h1 {
@@ -19,4 +23,28 @@ p {
 
 em strong {
   color: blue;
+}
+
+.itens {
+  font-style: italic;
+}
+
+.beneficios {
+  background: #ffffff;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.imagemFood {
+  width: 50%;
 }
