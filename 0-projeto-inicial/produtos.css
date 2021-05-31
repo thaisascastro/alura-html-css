@@ -28,3 +28,12 @@ nav a {
   text-decoration: none; /* decoração de texto none*/
   margin: 0 0 0 15px; /* topo, direita, baixo, esquerda */
 }
+
+.produtos {
+  width: 940px;
+  margin: 0 auto;
+}
+
+.produtos li {
+  display: inline-block;
+}
