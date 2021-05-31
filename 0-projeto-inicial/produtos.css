@@ -1,9 +1,23 @@
 header {
   background: #bbbbbb;
+  padding: 20px 0;
+}
+
+.caixa {
+  position: relative; /* posicionamento que levanta caixa*/
+  width: 940px; /* boa margem na web */
+  margin: 0 auto; /* significa que se calcule automaticamente*/
+}
+
+nav {
+  position: absolute;
+  top: 110px;
+  right: 0;
 }
 
 nav li {
   display: inline;
+  margin: 0 0 0 15px;
 }
 
 nav a {
