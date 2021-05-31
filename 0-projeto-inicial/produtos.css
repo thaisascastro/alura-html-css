@@ -1,0 +1,16 @@
+header {
+  background: #bbbbbb;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  text-transform: uppercase; /* deixa letra maiúscula */
+  color: #000000;
+  font-weight: bold; /* texto forte em negrito */
+  font-size: 22px;
+  text-decoration: none; /* decoração de texto none*/
+  margin: 0 0 0 15px; /* topo, direita, baixo, esquerda */
+}
