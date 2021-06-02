@@ -29,6 +29,11 @@ nav a {
   margin: 0 0 0 15px; /* topo, direita, baixo, esquerda */
 }
 
+nav a:hover {
+  color: #c78c19;
+  text-decoration: underline;
+}
+
 .produtos {
   width: 940px;
   margin: 0 auto;
